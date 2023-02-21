@@ -1,0 +1,8 @@
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\bin\Debug\CPRG211E-AbstractLab.exe.config
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\bin\Debug\CPRG211E-AbstractLab.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\bin\Debug\CPRG211E-AbstractLab.pdb
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\obj\Debug\CPRG211E-AbstractLab.csproj.AssemblyReference.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\obj\Debug\CPRG211E-AbstractLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\obj\Debug\CPRG211E-AbstractLab.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\obj\Debug\CPRG211E-AbstractLab.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-AbstractLab\CPRG211E-AbstractLab\obj\Debug\CPRG211E-AbstractLab.pdb
